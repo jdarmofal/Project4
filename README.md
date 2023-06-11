@@ -5,10 +5,10 @@
 ![Alt text](images/_cba66263-74a5-415a-bd01-41a255c4c69a.jpg)
 
 ## Group Members:
-Jacob Darmofal
-Vincent Elequin
-Tamica Grant
-Isidore Lozano
+- Jacob Darmofal
+- Vincent Elequin
+- Tamica Grant
+- Isidore Lozano
 
 ## Project Description:
 This project uses the 2020 annual CDC survey data of 400,000 adults. We intend to collect and analyze the data to build machine learning models to understand which characteristics (gender, age, race/ethnicity, etc.) to predict heart disease risk factors. This project will provide physicians, clinical trials, and general public health with valuable insight into heart disease impact and prevention. Using Pandas, Matplotlib, and PostgreSQL to visualize mortality predictions.
