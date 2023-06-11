@@ -2,7 +2,7 @@
 
 ## Identifying Heart Disease Indicators
 
-![Alt text](Images/_cba66263-74a5-415a-bd01-41a255c4c69a.jpg)
+![Alt text](images/_cba66263-74a5-415a-bd01-41a255c4c69a.jpg)
 
 ## Group Members:
 Jacob Darmofal
