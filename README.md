@@ -11,33 +11,36 @@
 - Isidore Lozano
 
 ## Project Description:
-This project uses the 2020 annual CDC survey data of 400,000 adults. We intend to collect and analyze the data to build machine learning models to understand which characteristics (gender, age, race/ethnicity, etc.) to predict heart disease risk factors. This project will provide physicians, clinical trials, and general public health with valuable insight into heart disease impact and prevention. Using Pandas, Matplotlib, and PostgreSQL to visualize mortality predictions.
+- Using CDC survey data from 2000 to 2020 of 400,000 adults. 
+- We intend to collect and analyze the data to build machine learning models to understand which characteristics (gender, age, race/ethnicity, etc.) to predict heart disease risk factors. 
+- Using Pandas, Matplotlib, and PostgreSQL to visualize mortality predictions.
+- Determine if there are high risk populations geographically 
 
 ## Questions to ask:
-What health factors will have a higher chance of heart disease?
-Do smokers have a higher risk of having heart disease?
-What age category is more expected?
-Which feature(s) in our dataset impact the possibility of heart disease?
+- What health factors will have a higher chance of heart disease?
+- Do smokers have a higher risk of having heart disease?
+- What age category is more expected?
+- Which feature(s) in our dataset impact the possibility of heart disease?
 
 
 ## Parameters to consider:
-heart_disease 
-bmi
-smoking
-alcohol consumption
-history of stroke
-physical health
-mental health
-gender
-age
-race
-diabetic
-physical activity
-general health
-hours of sleep
-asthma
-kidney disease
-skin cancer
+- heart_disease 
+- bmi
+- smoking
+- alcohol consumption
+- history of stroke
+- physical health
+- mental health
+- gender
+- age
+- race
+- diabetic
+- physical activity
+- general health
+- hours of sleep
+- asthma
+- kidney disease
+- skin cancer
 
 
 ## Resources:
