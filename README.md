@@ -52,7 +52,7 @@
 - ChatGPT (www.openai.com)
 - Neural Networks https://scikit-learn.org/
 - Imbalanced Learn https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.- 
-- SMOTE.htmlhttps://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html 
+- SMOTE https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html 
 - Tableau https://www.tableau.com
 
 ## Scope of Work:
