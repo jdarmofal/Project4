@@ -54,6 +54,7 @@
 - Imbalanced Learn https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.- 
 - SMOTE https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html 
 - Tableau https://www.tableau.com
+- Tableau story published to: https://public.tableau.com/app/profile/tamica.grant/viz/HeartDiseaseMap/DiseasesoftheHeartAnalysis?publish=yes
 
 ## Scope of Work:
 - Research data sources
